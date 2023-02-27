@@ -1,13 +1,9 @@
 
 <a href="https://www.linkedin.com/in/stan-sky/" target="_blank" rel="noopener noreferrer" >
 <img src="linkedin-original.svg" width="45" height="45"/></a>
-
-
 ## Hi there 👋
 
-  
-
-<img src="linkedin-plain-wordmark.svg" width="45" height="45"/>
+ 
 <!--
 **KonstantinSKY/KonstantinSKY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
