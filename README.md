@@ -1,5 +1,5 @@
 
-<a href="https://www.linkedin.com/in/stan-sky/">
+<a href="https://www.linkedin.com/in/stan-sky/" target="_blank" >
 <img src="linkedin-original.svg" width="45" height="45"/>
 ## Hi there 👋
 
