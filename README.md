@@ -1,7 +1,10 @@
-### Hi there 👋
-<a href="https://www.linkedin.com/in/stan-sky/">
-<img src="linkedin-original.svg" width="45" height="45"/>
 
+<a href="https://www.linkedin.com/in/stan-sky/">
+<img src="linkedin-original.svg" width="45" height="45"/> ## Hi there 👋
+
+  
+
+<img src="linkedin-plain-wordmark.svg" width="45" height="45"/>
 <!--
 **KonstantinSKY/KonstantinSKY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
