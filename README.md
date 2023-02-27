@@ -1,5 +1,8 @@
 ### Hi there 👋
 [I'm an inline-style link](https://www.linkedin.com/in/stan-sky/)
+<a href="https://www.linkedin.com/in/stan-sky/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+
 <!--
 **KonstantinSKY/KonstantinSKY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
