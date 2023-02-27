@@ -1,6 +1,7 @@
 
 <a href="https://www.linkedin.com/in/stan-sky/">
-<img src="linkedin-original.svg" width="45" height="45"/> ## Hi there 👋
+<img src="linkedin-original.svg" width="45" height="45"/>
+## Hi there 👋
 
   
 
