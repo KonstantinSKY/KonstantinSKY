@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[I'm an inline-style link](https://www.linkuedin.com/in/stan-sky/)
 <!--
 **KonstantinSKY/KonstantinSKY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
