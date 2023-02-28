@@ -1,13 +1,12 @@
 
-<a href="https://www.linkedin.com/in/stan-sky/" target="_blank" rel="noopener noreferrer" >
-<img src="linkedin-original.svg" width="45" height="45"/></a>
-
-
-### Hi there 👋 
-### I'm [Konstantin Smolnikov](https://www.linkedin.com/in/stan-sky/) and I'm software development engineer in test from California, US ✨
+### Hi there 👋  I'm [Konstantin Smolnikov](https://www.linkedin.com/in/stan-sky/) and I'm software development engineer SDET in test from California, US ✨
 <!--
 #### About me 
 ⚡ - I'm teaching [QA Automation](https://qasv.us/aboutqa) and [QA Manual](https://qasv.us/qamanual)💻 at our Online course [QA at Silicon Valley - QASV.US](https://qasv.us/)  
+
+<a href="https://www.linkedin.com/in/stan-sky/" target="_blank" rel="noopener noreferrer" >
+<img src="linkedin-original.svg" width="45" height="45"/></a>
+
 
 👋 - Feel free to join our FREE online Trial classes by submitting [this form](https://qasv.us/#form)  
 
