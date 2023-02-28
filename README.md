@@ -4,7 +4,7 @@
 
 
 ### Hi there 👋 
-### I'm [Kontantin Smolnikov](https://www.linkedin.com/in/stan-sky/) and I'm  software development engineer in test from California, US ✨
+### I'm [Konstantin Smolnikov](https://www.linkedin.com/in/stan-sky/) and I'm software development engineer in test from California, US ✨
 <!--
 #### About me 
 ⚡ - I'm teaching [QA Automation](https://qasv.us/aboutqa) and [QA Manual](https://qasv.us/qamanual)💻 at our Online course [QA at Silicon Valley - QASV.US](https://qasv.us/)  
