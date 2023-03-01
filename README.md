@@ -80,8 +80,9 @@
       <br>Programming languages:
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      <a href="https://www.python.org/" >
+        <img src="icons/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
       </a>
       <br>Kubernetes
     </td>
