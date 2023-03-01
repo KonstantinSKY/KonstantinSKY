@@ -86,10 +86,10 @@
       <br>
     </td>
     <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+      <a href="https://www.javascript.com/">
+        <img src="icons/javascript-original.svg" width="48" height="48" alt="JavaScript" title=JavaScript />
       </a>
-      <br>Debian
+      <br>
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
