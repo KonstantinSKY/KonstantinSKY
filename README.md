@@ -10,6 +10,17 @@
 
 <a href="https://www.linkedin.com/in/stan-sky/" target="_blank" rel="noopener noreferrer" >
 <img src="linkedin-original.svg" width="45" height="45"/></a>
+<table style="background-color:#FFFFE0;">
+<tr style="background-color:#BDB76B;color:#ffffff;">
+<th>Table Header</th><th>Table Header</th>
+</tr>
+<tr>
+<td>Table cell 1</td><td>Table cell 2</td>
+</tr>
+<tr>
+<td>Table cell 3</td><td>Table cell 4</td>
+</tr>
+</table>
 
 #### My learn project
 👋 - Feel free to join our FREE online Trial classes by submitting [this form](https://qasv.us/#form)  
@@ -21,7 +32,7 @@
 
 #### Technical Skills and Favorite Tech
 
-<table>
+<table style="background-color:#FFFFE0;">
   <tr>
     <td align="center" Align Middle width="100">
        <br>Operating systems:
