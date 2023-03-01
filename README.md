@@ -1,6 +1,6 @@
 
 ### Hi there :wave: 
-### I'm [Konstantin S](https://www.linkedin.com/in/stan-sky/) and I'm software development engineer in test (SDET) from California :us:
+## I'm [Konstantin S](https://www.linkedin.com/in/stan-sky/) and I'm software development engineer in test (SDET) from California :us:
 
 ### :angel: About me:
 
