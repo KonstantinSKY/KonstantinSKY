@@ -81,7 +81,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://www.python.org/" >
-        <img src="icons/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="icons/python-original.svg" width="48" height="48" alt="Python" title="Python" />
       </a>
       <br>
     </td>
