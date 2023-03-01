@@ -128,6 +128,18 @@
       <br>
     </td>
   </tr>
+  <tr>
+    <td align="center" Align Middle width="100">
+      <br>Databases:
+    </td>
+    <td align="center"  width="96">
+      <a href="https://www.mysql.com/">
+        <img src="./icons/mysql-original.svg" width="48" height="48" alt="MySQL" title="MySQL" />
+      </a>
+    
+    
+    
+  </tr>
 </table>
 
 <!--
