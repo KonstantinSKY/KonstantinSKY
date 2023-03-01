@@ -136,6 +136,7 @@
       <a href="https://www.mysql.com/">
         <img src="./icons/mysql-original.svg" width="48" height="48" alt="MySQL" title="MySQL" />
       </a>
+      <br>
     
     
     
