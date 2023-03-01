@@ -28,7 +28,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://www.linux.org/" target="_blank">
-        <img src="icons/linux-original.svg" width="48" height="48" alt="Linux" />
+        <img src="icons/linux-original.svg" width="48" height="48" alt="Linux" title="Linux" />
       </a>
       <br>
     </td>
