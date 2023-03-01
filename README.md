@@ -50,8 +50,8 @@
       <br>
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+      <a href="https://www.android.com/">
+        <img src="icons/android-plain.svg" width="48" height="48" alt="Android" title="Android" />
       </a>
       <br>
     </td>
