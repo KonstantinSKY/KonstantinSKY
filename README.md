@@ -47,7 +47,7 @@
       <a href="#https://www.apple.com/macos">
         <img src="icons/Icon-Mac.png" width="48" height="48" alt="MacOS" title="MacOS" />
       </a>
-      <br>
+      <br>MacOS
     </td>
     <td align="center" width="96">
       <a href="https://www.android.com/">
@@ -59,7 +59,7 @@
       <a href="https://www.microsoft.com/en-us/windows/">
         <img src="./icons/icons8-windows-10-480.svg" width="48" height="48" alt="Windows" title="Windows" />
       </a>
-      <br>
+      <br>Windows
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -75,13 +75,13 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="./img/bootstrap-plain.svg" width="48" height="48" />
       </a>
       <br>
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
+        <img src="./img/sass-original.svg" width="48" height="48" alt="Ss" />
       </a>
       <br>
     </td>
@@ -104,7 +104,7 @@
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./icons/perl-origina.svg" width="48" height="48" alt="Perl" />
+        <img src="./icons/perl-origina.svg" width="48" height="48" alt="" />
       </a>
       <br>
     </td>
