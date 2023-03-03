@@ -62,10 +62,10 @@
       <br>Windows
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <a href="https://manjaro.org/">
+        <img src="./icons/manjaro.svg" width="48" height="48" alt="Manjaro" />
       </a>
-      <br>
+      <br>Manjaro
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
