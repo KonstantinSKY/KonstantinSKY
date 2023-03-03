@@ -53,7 +53,7 @@
       <a href="https://www.android.com/">
         <img src="icons/android-plain.svg" width="48" height="48" alt="Android" title="Android" />
       </a>
-      <br>
+      <br>Android
     </td>
     <td align="center" width="96">
       <a href="https://www.microsoft.com/en-us/windows/">
@@ -94,19 +94,19 @@
       <a href="https://www.python.org/" >
         <img src="./icons/python-original.svg" width="48" height="48" alt="Python" title="Python" />
       </a>
-      <br>
+      <br>Python
     </td>
     <td align="center"  width="96">
       <a href="https://www.javascript.com/">
         <img src="./icons/javascript-original.svg" width="48" height="48" alt="JavaScript" title=JavaScript />
       </a>
-      <br>
+      <br>JavaScript
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
         <img src="./icons/perl-original.svg" width="48" height="48" alt="Perl" />
       </a>
-      <br>
+      <br>Perl
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -118,7 +118,7 @@
       <a href="#macropower-tech">
         <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
       </a>
-      <br>
+      <br>MySQL
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
@@ -147,12 +147,12 @@
       <a href="https://www.postgresql.org/">
         <img src="./icons/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" />
       </a>
-      <br>
+      <br>PostgreSQL
        <td align="center"  width="96">
       <a href="https://www.mysql.com/">
         <img src="./icons/mysql-original.svg" width="48" height="48" alt="MySQL" title="MySQL" />
       </a>
-      <br>
+      <br>MySQL
   </tr>
   <tr>
     <td align="center" Align Middle width="96">
