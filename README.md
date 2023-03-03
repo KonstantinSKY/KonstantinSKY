@@ -68,22 +68,16 @@
       <br>Manjaro
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
+      <a href="https://ubuntu.com/">
+        <img src="./icons/ubuntu-plain.svg" width="48" height="48" />
       </a>
-      <br>
+      <br>Ubuntu
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" />
+      <a href="https://www.debian.org/">
+        <img src="./icons/debian-original.svg" width="48" height="48" alt="Debian" />
       </a>
-      <br>
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Ss" />
-      </a>
-      <br>
+      <br>Debian
     </td>
   </tr>
   <tr>
@@ -167,9 +161,21 @@
     </td>
     <td align="center"  width="96">
        <a href="https://www.jetbrains.com/pycharm/">
-          <img src="./icons/pycharm-original.svg" width="48" height="48" alt="PyCharm" />
+          <img src="./icons/PyCharm_Icon.svg" width="48" height="48" alt="PyCharm" />
        </a>
        <br>PyCharm
+    </td>
+        <td align="center"  width="96">
+       <a href="https://www.jetbrains.com/pycharm/">
+          <img src="./icons/WebStorm_Icon.svg" width="48" height="48" alt="WebStorm" />
+       </a>
+       <br>WebStorm
+    </td>
+        <td align="center"  width="96">
+       <a href="https://www.jetbrains.com/pycharm/">
+          <img src="./icons/vscode-original.svg" width="48" height="48" alt="VSCode" />
+       </a>
+       <br>VSCode
     </td>
   </tr>
 </table>
