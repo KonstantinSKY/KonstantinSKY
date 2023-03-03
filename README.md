@@ -45,7 +45,7 @@
     </td>
     <td align="center" width="96">
       <a href="#https://www.apple.com/macos">
-        <img src="./icons/Icon-Mac.svg" width="48" height="48" alt="MacOS" title="MacOS" />
+        <img src="icons/Icon-Mac.png" width="48" height="48" alt="MacOS" title="MacOS" />
       </a>
       <br>
     </td>
