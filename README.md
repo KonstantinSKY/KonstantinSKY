@@ -34,8 +34,8 @@
 
 <table>
   <tr>
-    <td align="center" Align Middle width="100">
-       <br>Operating systems:
+    <td align="center" Align Middle width="96">
+       <br>Operating systems
     </td>
     <td align="center" width="96">
       <a href="https://www.linux.org/">
@@ -88,7 +88,7 @@
   </tr>
   <tr>
     <td align="center" valign="center" width="100"> 
-      <br>Programming languages:
+      <br>Programming languages
     </td>
     <td align="center" width="96">
       <a href="https://www.python.org/" >
@@ -140,8 +140,8 @@
     </td>
   </tr>
   <tr>
-    <td align="center" Align Middle width="100">
-      <br>SQL  &  NoSQL Databases :
+    <td align="center" Align Middle width="96">
+      <br>SQL  &  NoSQL Databases
     </td>
     <td align="center"  width="96">
       <a href="https://www.postgresql.org/">
@@ -155,8 +155,8 @@
       <br>
   </tr>
   <tr>
-    <td align="center" Align Middle width="100">
-      <br>IDEs  &  Text Editors:
+    <td align="center" Align Middle width="96">
+      <br>IDEs  &  Text Editors
     </td>
   </tr>
 </table>
