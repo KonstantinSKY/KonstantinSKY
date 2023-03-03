@@ -56,8 +56,8 @@
       <br>
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      <a href="https://www.microsoft.com/en-us/windows/">
+        <img src="./icons/icons8-windows-10-480.svg" width="48" height="48" alt="Windows" title="Windows" />
       </a>
       <br>
     </td>
