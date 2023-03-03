@@ -165,6 +165,12 @@
        </a>
        <br>Vim
     </td>
+    <td align="center"  width="96">
+       <a href="https://www.jetbrains.com/pycharm/">
+          <img src="./icons/pycharm-original.svg" width="48" height="48" alt="PyCharm" />
+       </a>
+       <br>PyCharm
+    </td>
   </tr>
 </table>
 
