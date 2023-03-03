@@ -148,15 +148,22 @@
         <img src="./icons/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" />
       </a>
       <br>PostgreSQL
-       <td align="center"  width="96">
-      <a href="https://www.mysql.com/">
-        <img src="./icons/mysql-original.svg" width="48" height="48" alt="MySQL" title="MySQL" />
-      </a>
-      <br>MySQL
+     <td align="center"  width="96">
+        <a href="https://www.mysql.com/">
+          <img src="./icons/mysql-original.svg" width="48" height="48" alt="MySQL" title="MySQL" />
+        </a>
+        <br>MySQL
+    </td>
   </tr>
   <tr>
     <td align="center" Align Middle width="96">
       <br>IDEs  &  Text Editors
+    </td>
+    <td align="center"  width="96">
+       <a href="https://www.vim.org/">
+          <img src="./icons/vim-original.svg" width="48" height="48" alt="VIM" />
+       </a>
+       <br>Vim
     </td>
   </tr>
 </table>
