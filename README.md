@@ -104,7 +104,7 @@
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./icons/perl-origina.svg" width="48" height="48" alt="" />
+        <img src="./icons/perl-original.svg" width="48" height="48" alt="Perl" />
       </a>
       <br>
     </td>
