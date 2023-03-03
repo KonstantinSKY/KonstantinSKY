@@ -172,7 +172,7 @@
        <br>WebStorm
     </td>
         <td align="center"  width="96">
-       <a href="https://www.jetbrains.com/pycharm/">
+       <a href="https://code.visualstudio.com/">
           <img src="./icons/vscode-original.svg" width="48" height="48" alt="VSCode" />
        </a>
        <br>VSCode
