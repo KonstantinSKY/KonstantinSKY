@@ -47,7 +47,7 @@
       <a href="#https://www.apple.com/macos">
         <img src="icons/Icon-Mac.png" width="48" height="48" alt="MacOS" title="MacOS" />
       </a>
-      <br> MacOS
+      <br>
     </td>
     <td align="center" width="96">
       <a href="https://www.android.com/">
@@ -92,19 +92,19 @@
     </td>
     <td align="center" width="96">
       <a href="https://www.python.org/" >
-        <img src="icons/python-original.svg" width="48" height="48" alt="Python" title="Python" />
+        <img src="./icons/python-original.svg" width="48" height="48" alt="Python" title="Python" />
       </a>
       <br>
     </td>
     <td align="center"  width="96">
       <a href="https://www.javascript.com/">
-        <img src="icons/javascript-original.svg" width="48" height="48" alt="JavaScript" title=JavaScript />
+        <img src="./icons/javascript-original.svg" width="48" height="48" alt="JavaScript" title=JavaScript />
       </a>
       <br>
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
+        <img src="./icons/perl-original.svg" width="48" height="48" alt="Perl" />
       </a>
       <br>
     </td>
