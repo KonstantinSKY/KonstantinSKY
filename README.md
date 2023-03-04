@@ -207,11 +207,23 @@
        </a>
        <br>WebStorm
     </td>
-        <td align="center"  width="96">
+    <td align="center"  width="96">
        <a href="https://code.visualstudio.com/">
           <img src="./icons/vscode-original.svg" width="48" height="48" alt="VSCode" />
        </a>
        <br>VSCode
+    </td>
+        <td align="center"  width="96">
+       <a href="https://code.visualstudio.com/">
+          <img src="./icons/atom-4.svg" width="48" height="48" alt="VSCode" />
+       </a>
+       <br>Atom
+    </td>
+        <td align="center"  width="96">
+       <a href="https://code.visualstudio.com/">
+          <img src="./icons/sublime-text.svg" width="48" height="48" alt="VSCode" />
+       </a>
+       <br>Sublime
     </td>
   </tr>
 </table>
