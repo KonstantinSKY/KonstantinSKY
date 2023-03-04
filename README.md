@@ -104,7 +104,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://www.gnu.org/software/bash/manual/">
-        <img src="nodejs-original.svg" width="48" height="48" alt="Powershell" />
+        <img src="./icons/nodejs-original.svg" width="48" height="48" alt="Powershell" />
       </a>
       <br>NodeJS
     </td>
@@ -116,7 +116,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="rust-plain.svg" width="48" height="48" alt="Grafana" />
+        <img src="./icons/rust-plain.svg" width="48" height="48" alt="Grafana" />
       </a>
       <br>Rust
     </td>
