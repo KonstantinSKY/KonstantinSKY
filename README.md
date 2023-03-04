@@ -104,9 +104,9 @@
     </td>
     <td align="center" width="96">
       <a href="https://www.gnu.org/software/bash/manual/">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
+        <img src="nodejs-original.svg" width="48" height="48" alt="Powershell" />
       </a>
-      <br>
+      <br>NodeJS
     </td>
     <td align="center"  width="96">
       <a href="https://www.gnu.org/software/bash/manual">
@@ -116,9 +116,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+        <img src="rust-plain.svg" width="48" height="48" alt="Grafana" />
       </a>
-      <br>
+      <br>Rust
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
@@ -187,7 +187,7 @@
   </tr>
   <tr>
     <td align="center" Align Middle width="96">
-      <br>IDEs  &  Text Editors
+      <br>IDE  &  Text Editors
     </td>
     <td align="center"  width="96">
        <a href="https://www.vim.org/">
