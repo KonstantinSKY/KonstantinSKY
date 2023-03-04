@@ -104,9 +104,9 @@
     </td>
     <td align="center" width="96">
       <a href="https://www.gnu.org/software/bash/manual/">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
+        <img src="./icons/nodejs-original.svg" width="48" height="48" alt="Powershell" />
       </a>
-      <br>
+      <br>NodeJS
     </td>
     <td align="center"  width="96">
       <a href="https://www.gnu.org/software/bash/manual">
@@ -116,9 +116,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+        <img src="./icons/rust-plain.svg" width="48" height="48" alt="Grafana" />
       </a>
-      <br>
+      <br>Rust
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
@@ -150,13 +150,13 @@
      </td>
       <td align="center"  width="96">
         <a href="https://www.mysql.com/">
-          <img src="./icons/mysql-original.svg" width="48" height="48" alt="MySQL" title="MySQL" />
+          <img src="./icons/sqlite.png" width="48" height="48" alt="MySQL" title="MySQL" />
         </a>
         <br>SQLite
      </td>
       <td align="center"  width="96">
         <a href="https://www.mysql.com/">
-          <img src="./icons/file_type_mariadb_icon_130403" width="48" height="48" alt="MySQL" title="MySQL" />
+          <img src="./icons/mariadb.svg" width="48" height="48" alt="MySQL" title="MySQL" />
         </a>
         <br>MariaDB
      </td>
@@ -180,14 +180,14 @@
      </td>
       <td align="center"  width="96">
         <a href="https://www.mysql.com/">
-          <img src="./icons/Memcached-logo.svg" width="48" height="48" alt="MySQL" title="MySQL" />
+          <img src="./icons/memcached-logo.png" width="64" height="48" alt="MySQL" title="MySQL" />
         </a>
         <br>Memcached
      </td>
   </tr>
   <tr>
     <td align="center" Align Middle width="96">
-      <br>IDEs  &  Text Editors
+      <br>IDE  &  Text Editors
     </td>
     <td align="center"  width="96">
        <a href="https://www.vim.org/">
@@ -207,11 +207,23 @@
        </a>
        <br>WebStorm
     </td>
-        <td align="center"  width="96">
+    <td align="center"  width="96">
        <a href="https://code.visualstudio.com/">
           <img src="./icons/vscode-original.svg" width="48" height="48" alt="VSCode" />
        </a>
        <br>VSCode
+    </td>
+        <td align="center"  width="96">
+       <a href="https://code.visualstudio.com/">
+          <img src="./icons/atom-4.svg" width="48" height="48" alt="VSCode" />
+       </a>
+       <br>Atom
+    </td>
+        <td align="center"  width="96">
+       <a href="https://code.visualstudio.com/">
+          <img src="./icons/sublime-text.svg" width="48" height="48" alt="VSCode" />
+       </a>
+       <br>Sublime
     </td>
   </tr>
 </table>
