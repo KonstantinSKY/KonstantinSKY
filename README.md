@@ -116,7 +116,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="./icons/rust-plain.svg" width="48" height="48" alt="Grafana" />
+        <img src="./icons/rust-logo-128x128.png" width="48" height="48" alt="Grafana" />
       </a>
       <br>Rust
     </td>
