@@ -97,22 +97,22 @@
       <br>JavaScript
     </td>
     <td align="center"  width="96">
-      <a href="#macropower-tech">
+      <a href="https://www.perl.org/">
         <img src="./icons/perl-original.svg" width="48" height="48" alt="Perl" />
       </a>
       <br>Perl
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="https://www.gnu.org/software/bash/manual/">
         <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
       </a>
       <br>
     </td>
     <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      <a href="https://www.gnu.org/software/bash/manual">
+        <img src="./icons/Bash_Logo_Colored.svg" width="48" height="48" alt="Bash" />
       </a>
-      <br>MySQL
+      <br>Bash
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
@@ -147,7 +147,43 @@
           <img src="./icons/mysql-original.svg" width="48" height="48" alt="MySQL" title="MySQL" />
         </a>
         <br>MySQL
-    </td>
+     </td>
+      <td align="center"  width="96">
+        <a href="https://www.mysql.com/">
+          <img src="./icons/mysql-original.svg" width="48" height="48" alt="MySQL" title="MySQL" />
+        </a>
+        <br>SQLite
+     </td>
+      <td align="center"  width="96">
+        <a href="https://www.mysql.com/">
+          <img src="./icons/mysql-original.svg" width="48" height="48" alt="MySQL" title="MySQL" />
+        </a>
+        <br>MariaDB
+     </td>
+      <td align="center"  width="96">
+        <a href="https://www.mysql.com/">
+          <img src="./icons/mysql-original.svg" width="48" height="48" alt="MySQL" title="MySQL" />
+        </a>
+        <br>BerkleyDB
+     </td>
+      <td align="center"  width="96">
+        <a href="https://www.mysql.com/">
+          <img src="./icons/mysql-original.svg" width="48" height="48" alt="MySQL" title="MySQL" />
+        </a>
+        <br>MongoDB
+     </td>
+      <td align="center"  width="96">
+        <a href="https://www.mysql.com/">
+          <img src="./icons/mysql-original.svg" width="48" height="48" alt="MySQL" title="MySQL" />
+        </a>
+        <br>Redis
+     </td>
+      <td align="center"  width="96">
+        <a href="https://www.mysql.com/">
+          <img src="./icons/mysql-original.svg" width="48" height="48" alt="MySQL" title="MySQL" />
+        </a>
+        <br>Memcached
+     </td>
   </tr>
   <tr>
     <td align="center" Align Middle width="96">
@@ -172,7 +208,7 @@
        <br>WebStorm
     </td>
         <td align="center"  width="96">
-       <a href="https://www.jetbrains.com/pycharm/">
+       <a href="https://code.visualstudio.com/">
           <img src="./icons/vscode-original.svg" width="48" height="48" alt="VSCode" />
        </a>
        <br>VSCode
