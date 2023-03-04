@@ -150,7 +150,7 @@
      </td>
       <td align="center"  width="96">
         <a href="https://www.mysql.com/">
-          <img src="./icons/mysql-original.svg" width="48" height="48" alt="MySQL" title="MySQL" />
+          <img src="./icons/sqlite.png" width="48" height="48" alt="MySQL" title="MySQL" />
         </a>
         <br>SQLite
      </td>
@@ -180,7 +180,7 @@
      </td>
       <td align="center"  width="96">
         <a href="https://www.mysql.com/">
-          <img src="./icons/Memcached-logo.svg" width="48" height="48" alt="MySQL" title="MySQL" />
+          <img src="./icons/memcached-logo.png" width="48" height="48" alt="MySQL" title="MySQL" />
         </a>
         <br>Memcached
      </td>
