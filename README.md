@@ -1,6 +1,6 @@
 
 ### Hi there :wave: 
-##  I'm [Konstantin S](https://www.linkedin.com/in/stan-sky/) and I'm software development engineer in test (SDET) from California :us:
+###  I'm [Konstantin S](https://www.linkedin.com/in/stan-sky/) and I'm software development engineer in test (SDET) from California :us:
 
 <table>
   <tr>
@@ -40,7 +40,7 @@
 ✅ - Please check our [Telegram channel](https://t.me/qasvus) for tons of QA Testing vacancies in US
 -->
 
-#### Technical Skills and Favorite Tech
+### Technical Skills and Favorite Tech
 
 <table>
   <tr>
