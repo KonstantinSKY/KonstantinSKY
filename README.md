@@ -1,8 +1,18 @@
 
 ### Hi there :wave: 
-## I'm [Konstantin S](https://www.linkedin.com/in/stan-sky/) and I'm software development engineer in test (SDET) from California :us:
-<img src="./icons/sticker.avif"  width="500" height="500">
-### :angel: About me:
+##  I'm [Konstantin S](https://www.linkedin.com/in/stan-sky/) and I'm software development engineer in test (SDET) from California :us:
+
+<table>
+  <tr>
+    <td align="center" Align Middle width="600">
+      <H2> :angel: About me: </H2>
+    </td>
+    <td align="center" width="500">
+        <img src="./icons/sticker.avif"  width="500" height="500"> 
+      </a>
+    </td>
+    </tr>
+  <table>
 
 
 <!--
