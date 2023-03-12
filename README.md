@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-    <td align="center" Align Middle width="600">
+    <td align="center" Align Middle width="550">
       <H2> :angel: About me: </H2>
     </td>
     <td align="center" width="500">
