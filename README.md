@@ -1,7 +1,7 @@
 
 ### Hi there :wave: 
 ## I'm [Konstantin S](https://www.linkedin.com/in/stan-sky/) and I'm software development engineer in test (SDET) from California :us:
-![alt text](./icons/sticker.avif)
+<img src="./icons/sticker.avif"  width="500" height="500">
 ### :angel: About me:
 
 
