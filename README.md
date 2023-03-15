@@ -144,12 +144,6 @@
       </a>
       <br>
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
-      </a>
-      <br>
-    </td>
   </tr>
   <tr>
     <td align="center" Align Middle width="96">
@@ -171,12 +165,6 @@
           <img src="./icons/sqlite.png" width="48" height="48" alt="MySQL" title="MySQL" />
         </a>
         <br>SQLite
-     </td>
-      <td align="center"  width="96">
-        <a href="https://www.mysql.com/">
-          <img src="./icons/mariadb.svg" width="48" height="48" alt="MySQL" title="MySQL" />
-        </a>
-        <br>MariaDB
      </td>
       <td align="center"  width="96">
         <a href="https://www.mysql.com/">
@@ -253,7 +241,7 @@
 > - Don't talk, just try to do.
 <!--
 **KonstantinSKY/KonstantinSKY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
