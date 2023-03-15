@@ -7,7 +7,7 @@
       <H3>
         Hi there :wave: 
       I'm Konstantin  from California :us: </H3>
-        Software development engineer in test and Senior Python Developer
+        Software development engineer in test <br> Senior Python Developer
       <H2> :angel: About me: </H2>
     </td>
     <td align="center" width="500">
