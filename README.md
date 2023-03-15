@@ -4,10 +4,10 @@
 <table>
   <tr>
     <td align="center" Align Middle width="500">
-      <H2>
-        Hi there :wave:</H2>
-       I'm Konstantin
-        and I'm software development engineer in test  from California :us:
+      <H3>
+        Hi there :wave: 
+      I'm Konstantin  from California :us: </H3>
+        Software development engineer in test and Senior Python Developer
       <H2> :angel: About me: </H2>
     </td>
     <td align="center" width="500">
