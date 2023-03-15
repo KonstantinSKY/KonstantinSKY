@@ -25,10 +25,10 @@
 <!-- <a href="#"><img align="right" src="./icons/sticker.avif" width="500 " height="500" /></a> -->
  
 
-```python
+<!-- ```python
 def a()
   link = "https://google.com"
-```
+``` -->
 <!--       
 <table>
   <tr>
