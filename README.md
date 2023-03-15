@@ -10,9 +10,9 @@
       <p>📫 How to reach me:</p>
       <a href="https://www.linkedin.com/in/stan-sky/"><img src="./icons/linkedin-original.svg" alt="LinkedIn" width="48" height="48"></a>
       <a href="https://www.codewars.com/users/Stan_SKY"><img src="./icons/codewars.svg" alt="CodeWars" width="48" height="48"></a>
-      <a href="https://www.hackerrank.com/stan_sky"><img src="HackerRank_Icon-1000px.png" alt="HackerRank" width="48" height="48"></a>
+      <a href="https://www.hackerrank.com/stan_sky"><img src="./icons/HackerRank.png" alt="HackerRank" width="48" height="48"></a>
       <a href="https://leetcode.com/Smolnikov/"><img src="./icons/leetcode.svg" alt="LeetCode" width="48" height="48"></a>
-      <a href="https://www.upwork.com/freelancers/~0169627626a2377fda"><img src="./icons/upwork.svg" alt="LeetCode" width="48" height="48"></a>
+      <a href="https://www.upwork.com/freelancers/~0169627626a2377fda"><img src="./icons/upwork.svg" alt="Upwork" width="48" height="48"></a>
       <a href="https://stackoverflow.com/users/16498405/stan-sky?tab=profile"><img src="./icons/Stack_Overflow_icon.svg" alt="Stackoverflow" width="48" height="48"></a>
     </td>
     <td align="center" width="500">
