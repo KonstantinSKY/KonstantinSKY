@@ -133,16 +133,16 @@
       <br>Bash
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./icons/rust-logo-128x128.png" width="48" height="48" alt="Grafana" />
+      <a href="https://www.rust-lang.org/" >
+        <img src="./icons/rust-logo-128x128.png" width="48" height="48" alt="Rust" />
       </a>
       <br>Rust
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
+      <a href="https://www.java.com/" >
+        <img src="./icons/java-original.svg" width="48" height="48" alt="Java" />
       </a>
-      <br>
+      <br>Java
     </td>
   </tr>
   <tr>
