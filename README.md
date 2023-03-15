@@ -1,14 +1,15 @@
-
-### Hi there :wave:    I'm [Konstantin S](https://www.linkedin.com/in/stan-sky/) and I'm software development engineer in test  from California :us:
-
 <table>
   <tr>
     <td align="center" Align Middle width="500">
       <H3>
-        Hi there :wave: 
-      I'm Konstantin  from California :us: </H3>
+        Hi there :wave: I'm  <a href="https://www.linkedin.com/in/stan-sky/">Konstantin</a> from California :us:
+      </H3>
         Software development engineer in test <br> Senior Python Developer
-      <H2> :angel: About me: </H2>
+      <hr>
+      <H3> :angel: About: </H3>
+      <p>📫 How to reach me:</p>
+      <a href="https://www.linkedin.com/in/stan-sky/"><img src="./icons/linkedin-original.svg" alt="LinkedIn" width="48" height="48"></a>
+      <a href="https://www.linkedin.com/in/stan-sky/"><img src="./icons/linkedin-original.svg" alt="LinkedIn" width="48" height="48"></a>
     </td>
     <td align="center" width="500">
         <img src="./icons/sticker.avif"  width="500" height="500"> 
@@ -243,19 +244,12 @@
 
 <!--
 
-- OS: 
-- Languages: JavaScript, Typescript, Python, R;
-- Technologies: ReactJS, NodeJS, ReactNative, HTML(5), CSS(3), jQuery, VueJS, Angular;
-- Libs: Redux, Redux Saga/Thunk, Lodash, D3, HighCharts, Jest, Mocka, Enzyme, Flow, Bootstrap; - Tools: Git, yarn/npm, Webpack, Gulp, Babel, Prettier, VSCode;
-- Databases: MongoDB, SQL;
-
-
 #### My favorite (QA and programming related) quotes: 
 > - Everything is easy, when you know how to do this.  
 > - Don't talk, just try to do.
 <!--
 **KonstantinSKY/KonstantinSKY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
