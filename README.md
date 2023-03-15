@@ -9,7 +9,7 @@
       <H3> :angel: About: </H3>
       <p>📫 How to reach me:</p>
       <a href="https://www.linkedin.com/in/stan-sky/"><img src="./icons/linkedin-original.svg" alt="LinkedIn" width="48" height="48"></a>
-      <a href="https://www.linkedin.com/in/stan-sky/"><img src="./icons/linkedin-original.svg" alt="LinkedIn" width="48" height="48"></a>
+      <a href="https://www.codewars.com/users/Stan_SKY"><img src="./icons/codewars.svg" alt="CodeWars" width="48" height="48"></a>
     </td>
     <td align="center" width="500">
         <img src="./icons/sticker.avif"  width="500" height="500"> 
