@@ -220,16 +220,23 @@
        <br>VSCode
     </td>
         <td align="center"  width="96">
-       <a href="https://code.visualstudio.com/">
+       <a href="https://github.com/atom">
           <img src="./icons/atom-4.svg" width="48" height="48" alt="VSCode" />
        </a>
        <br>Atom
     </td>
         <td align="center"  width="96">
-       <a href="https://code.visualstudio.com/">
+       <a href="https://www.sublimetext.com/">
           <img src="./icons/sublime-text.svg" width="48" height="48" alt="VSCode" />
        </a>
        <br>Sublime
+    </td>
+    </td>
+        <td align="center"  width="96">
+       <a href="https://www.activestate.com/products/komodo-ide/">
+          <img src="./icons/komodo.svg" width="48" height="48" alt="VSCode" />
+       </a>
+       <br>Komodo
     </td>
   </tr>
 </table>
