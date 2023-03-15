@@ -167,25 +167,25 @@
         <br>SQLite
      </td>
       <td align="center"  width="96">
-        <a href="https://www.mysql.com/">
+        <a href="https://www.oracle.com/database/technologies/related/berkeleydb.html">
           <img src="./icons/download.png" width="86" height="48" alt="MySQL" title="MySQL" />
         </a>
         <br>BerkleyDB
      </td>
       <td align="center"  width="96">
-        <a href="https://www.mysql.com/">
+        <a href="https://www.mongodb.com/">
           <img src="./icons/mongodb-original.svg" width="48" height="48" alt="MySQL" title="MySQL" />
         </a>
         <br>MongoDB
      </td>
       <td align="center"  width="96">
-        <a href="https://www.mysql.com/">
+        <a href="https://redis.com/">
           <img src="./icons/redis-original.svg" width="48" height="48" alt="MySQL" title="MySQL" />
         </a>
         <br>Redis
      </td>
       <td align="center"  width="96">
-        <a href="https://www.mysql.com/">
+        <a href="https://memcached.org/">
           <img src="./icons/memcached-logo.png" width="64" height="48" alt="MySQL" title="MySQL" />
         </a>
         <br>Memcached
