@@ -136,19 +136,19 @@
      </td>
       <td align="center"  width="96">
         <a href="https://www.mysql.com/">
-          <img src="./icons/sqlite.png" width="48" height="48" alt="MySQL" title="MySQL" />
+          <img src="./icons/sqlite.png" width="48" height="48" alt="SQLite" title="SQLite" />
         </a>
         <br>SQLite
      </td>
       <td align="center"  width="96">
         <a href="https://www.oracle.com/database/technologies/related/berkeleydb.html">
-          <img src="./icons/download.png" width="86" height="48" alt="MySQL" title="MySQL" />
+          <img src="./icons/download.png" width="86" height="48" alt="BerkleyDB" title="BerkleyDB" />
         </a>
         <br>BerkleyDB
      </td>
       <td align="center"  width="96">
         <a href="https://www.mongodb.com/">
-          <img src="./icons/mongodb-original.svg" width="48" height="48" alt="MySQL" title="MySQL" />
+          <img src="./icons/mongodb-original.svg" width="48" height="48" alt="MongoDB" title="MongoDB" />
         </a>
         <br>MongoDB
      </td>
