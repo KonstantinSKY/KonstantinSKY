@@ -61,7 +61,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://ubuntu.com/">
-        <img src="./icons/ubuntu-plain.svg" width="48" height="48" />
+        <img src="./icons/ubuntu-plain.svg" width="Ubuntu" height="Ubuntu" alt="Ubuntu" title="Ubuntu" />
       </a>
       <br>Ubuntu
     </td>
@@ -96,13 +96,13 @@
     </td>
     <td align="center" width="96">
       <a href="https://www.gnu.org/software/bash/manual/">
-        <img src="./icons/nodejs-original.svg" width="48" height="48" alt="Powershell" />
+        <img src="./icons/nodejs-original.svg" width="NodeJS" height="NodeJS" alt="NodeJS" title="NodeJS" />
       </a>
       <br>NodeJS
     </td>
     <td align="center"  width="96">
       <a href="https://www.gnu.org/software/bash/manual">
-        <img src="./icons/Bash_Logo_Colored.svg" width="48" height="48" alt="Bash" />
+        <img src="./icons/Bash_Logo_Colored.svg" width="Bash" height="Bash" alt="Bash" title="Bash" />
       </a>
       <br>Bash
     </td>
@@ -154,13 +154,13 @@
      </td>
       <td align="center"  width="96">
         <a href="https://redis.com/">
-          <img src="./icons/redis-original.svg" width="48" height="48" alt="MySQL" title="MySQL" />
+          <img src="./icons/redis-original.svg" width="48" height="48" alt="Redis" title="Redis" />
         </a>
         <br>Redis
      </td>
       <td align="center"  width="96">
         <a href="https://memcached.org/">
-          <img src="./icons/memcached-logo.png" width="64" height="48" alt="MySQL" title="MySQL" />
+          <img src="./icons/memcached-logo.png" width="64" height="48" alt="Memcached" title="Memcached" />
         </a>
         <br>Memcached
      </td>
