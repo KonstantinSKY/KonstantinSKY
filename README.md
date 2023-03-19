@@ -12,73 +12,15 @@
     <td align="center" width="500">
       <p>📫 How to reach me:</p>
       <a href="https://www.linkedin.com/in/stan-sky/"><img src="./icons/linkedin-original.svg" alt="LinkedIn" width="48" height="48"></a>
+      <a href="https://www.upwork.com/freelancers/~0169627626a2377fda"><img src="./icons/upwork.svg" alt="Upwork" width="48" height="48"></a>
       <a href="https://www.codewars.com/users/Stan_SKY"><img src="./icons/codewars.svg" alt="CodeWars" width="48" height="48"></a>
       <a href="https://www.hackerrank.com/stan_sky"><img src="./icons/HackerRank.png" alt="HackerRank" width="48" height="48"></a>
       <a href="https://leetcode.com/Smolnikov/"><img src="./icons/leetcode.svg" alt="LeetCode" width="48" height="48"></a>
-      <a href="https://www.upwork.com/freelancers/~0169627626a2377fda"><img src="./icons/upwork.svg" alt="Upwork" width="48" height="48"></a>
       <a href="https://stackoverflow.com/users/16498405/stan-sky?tab=profile"><img src="./icons/Stack_Overflow_icon.svg" alt="Stackoverflow" width="48" height="48"></a>
     </td>
     </tr>
   <table>
     
-
-<!-- <a href="#"><img align="right" src="./icons/sticker.avif" width="500 " height="500" /></a> -->
- 
-
-<!-- ```python
-def a()
-  link = "https://google.com"
-``` -->
-<!--       
-<table>
-  <tr>
-    <td align="center" Align Middle width="500">
-      <H3>
-        Hi there :wave: I'm  <a href="https://www.linkedin.com/in/stan-sky/">Konstantin</a> from California :us:
-      </H3>
-        Software development engineer in test <br> Senior Python Developer
-      <hr>
-      <H3> :angel: About: </H3>
-      <p>📫 How to reach me:</p>
-      <a href="https://www.linkedin.com/in/stan-sky/"><img src="./icons/linkedin-original.svg" alt="LinkedIn" width="48" height="48"></a>
-      <a href="https://www.codewars.com/users/Stan_SKY"><img src="./icons/codewars.svg" alt="CodeWars" width="48" height="48"></a>
-      <a href="https://www.hackerrank.com/stan_sky"><img src="./icons/HackerRank.png" alt="HackerRank" width="48" height="48"></a>
-      <a href="https://leetcode.com/Smolnikov/"><img src="./icons/leetcode.svg" alt="LeetCode" width="48" height="48"></a>
-      <a href="https://www.upwork.com/freelancers/~0169627626a2377fda"><img src="./icons/upwork.svg" alt="Upwork" width="48" height="48"></a>
-      <a href="https://stackoverflow.com/users/16498405/stan-sky?tab=profile"><img src="./icons/Stack_Overflow_icon.svg" alt="Stackoverflow" width="48" height="48"></a>
-    </td>
-    <td align="center" width="500">
-        <img src="./icons/sticker.avif"  width="500" height="500"> 
-      </a>
-    </td>
-    </tr>
-  <table> -->
-
-
-<!--
-⚡ - I'm teaching [QA Automation](https://qasv.us/aboutqa) and [QA Manual](https://qasv.us/qamanual)💻 at our Online course [QA at Silicon Valley - QASV.US](https://qasv.us/)  
-
-<a href="https://www.linkedin.com/in/stan-sky/" target="_blank" rel="noopener noreferrer" >
-<img src="linkedin-original.svg" width="45" height="45"/></a>
-<table style="background-color:#FFFFE0;">
-<tr style="background-color:#BDB76B;color:#ffffff;">
-<th>Table Header</th><th>Table Header</th>
-</tr>
-<tr>
-<td>Table cell 1</td><td>Table cell 2</td>
-</tr>
-<tr>
-<td>Table cell 3</td><td>Table cell 4</td>
-</tr>
-</table>
-
-#### My learn project
-👋 - Feel free to join our FREE online Trial classes by submitting [this form](https://qasv.us/#form)  
-
-🏆 - Also you could watch a lot of video about QA Testing on our [YouTube channel](https://www.youtube.com/SergeyEfremov_USA)  
-
-✅ - Please check our [Telegram channel](https://t.me/qasvus) for tons of QA Testing vacancies in US
--->
 
 ### Technical Skills and Favorite Tech
 
