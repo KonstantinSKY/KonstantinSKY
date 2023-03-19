@@ -61,7 +61,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://ubuntu.com/">
-        <img src="./icons/ubuntu-plain.svg" width="Ubuntu" height="Ubuntu" alt="Ubuntu" title="Ubuntu" />
+        <img src="./icons/ubuntu-plain.svg" width="48" height="48" alt="Ubuntu" title="Ubuntu" />
       </a>
       <br>Ubuntu
     </td>
@@ -96,7 +96,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://www.gnu.org/software/bash/manual/">
-        <img src="./icons/nodejs-original.svg" width="NodeJS" height="NodeJS" alt="NodeJS" title="NodeJS" />
+        <img src="./icons/nodejs-original.svg" width="48" height="48" alt="NodeJS" title="NodeJS" />
       </a>
       <br>NodeJS
     </td>
@@ -108,13 +108,13 @@
     </td>
     <td align="center" width="96">
       <a href="https://www.rust-lang.org/" >
-        <img src="./icons/rust-logo-128x128.png" width="48" height="48" alt="Rust" />
+        <img src="./icons/rust-logo-128x128.png" width="48" height="48" alt="Rust" title="Rust" />
       </a>
       <br>Rust
     </td>
     <td align="center" width="96">
       <a href="https://www.java.com/" >
-        <img src="./icons/java-original.svg" width="48" height="48" alt="Java" />
+        <img src="./icons/java-original.svg" width="48" height="48" alt="Java" title="Java" />
       </a>
       <br>Java
     </td>
@@ -125,14 +125,14 @@
     </td>
     <td align="center"  width="96">
       <a href="https://www.postgresql.org/">
-        <img src="./icons/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" />
+        <img src="./icons/postgresql-original.svg" width="48" height="48" alt="Vim" title="Vim" />
       </a>
-      <br>PostgreSQL
+      <br>Vim
      <td align="center"  width="96">
         <a href="https://www.mysql.com/">
-          <img src="./icons/mysql-original.svg" width="48" height="48" alt="MySQL" title="MySQL" />
+          <img src="./icons/mysql-original.svg" width="48" height="48" alt="PyCharm" title="PyCharm" />
         </a>
-        <br>MySQL
+        <br>PyCharm
      </td>
       <td align="center"  width="96">
         <a href="https://www.mysql.com/">
@@ -171,44 +171,44 @@
     </td>
     <td align="center"  width="96">
        <a href="https://www.vim.org/">
-          <img src="./icons/vim-original.svg" width="48" height="48" alt="VIM" />
+          <img src="./icons/vim-original.svg" width="48" height="48" alt="Vim" title="Vim" />
        </a>
        <br>Vim
     </td>
     <td align="center"  width="96">
        <a href="https://www.jetbrains.com/pycharm/">
-          <img src="./icons/PyCharm_Icon.svg" width="48" height="48" alt="PyCharm" />
+          <img src="./icons/PyCharm_Icon.svg" width="48" height="48" alt="PyCharm" title="PyCharm" />
        </a>
        <br>PyCharm
     </td>
         <td align="center"  width="96">
        <a href="https://www.jetbrains.com/pycharm/">
-          <img src="./icons/WebStorm_Icon.svg" width="48" height="48" alt="WebStorm" />
+          <img src="./icons/WebStorm_Icon.svg" width="48" height="48" alt="WebStorm" title="WebStorm" />
        </a>
        <br>WebStorm
     </td>
     <td align="center"  width="96">
        <a href="https://code.visualstudio.com/">
-          <img src="./icons/vscode-original.svg" width="48" height="48" alt="VSCode" />
+          <img src="./icons/vscode-original.svg" width="48" height="48" alt="VSCode" title="VSCode" />
        </a>
        <br>VSCode
     </td>
         <td align="center"  width="96">
        <a href="https://github.com/atom">
-          <img src="./icons/atom-4.svg" width="48" height="48" alt="VSCode" />
+          <img src="./icons/atom-4.svg" width="48" height="48" alt="Atom" title="Atom" />
        </a>
        <br>Atom
     </td>
         <td align="center"  width="96">
        <a href="https://www.sublimetext.com/">
-          <img src="./icons/sublime-text.svg" width="48" height="48" alt="VSCode" />
+          <img src="./icons/sublime-text.svg" width="48" height="48" alt="Sublime" title="Sublime" />
        </a>
        <br>Sublime
     </td>
     </td>
         <td align="center"  width="96">
        <a href="https://www.activestate.com/products/komodo-ide/">
-          <img src="./icons/komodo.svg" width="48" height="48" alt="VSCode" />
+          <img src="./icons/komodo.svg" width="48" height="48" alt="Komodo" title="Komodo" />
        </a>
        <br>Komodo
     </td>
