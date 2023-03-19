@@ -55,7 +55,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://manjaro.org/">
-        <img src="./icons/manjaro.svg" width="48" height="48" alt="Manjaro" />
+        <img src="./icons/manjaro.svg" width="48" height="48" alt="Manjaro" title="Manjaro" />
       </a>
       <br>Manjaro
     </td>
@@ -67,7 +67,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://www.debian.org/">
-        <img src="./icons/debian-original.svg" width="48" height="48" alt="Debian" />
+        <img src="./icons/debian-original.svg" width="48" height="48" alt="Debian" title="Debian" />
       </a>
       <br>Debian
     </td>
@@ -84,13 +84,13 @@
     </td>
     <td align="center"  width="96">
       <a href="https://www.javascript.com/">
-        <img src="./icons/javascript-original.svg" width="48" height="48" alt="JavaScript" title=JavaScript />
+        <img src="./icons/javascript-original.svg" width="48" height="48" alt="JavaScript" title="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center"  width="96">
       <a href="https://www.perl.org/">
-        <img src="./icons/perl-original.svg" width="48" height="48" alt="Perl" />
+        <img src="./icons/perl-original.svg" width="48" height="48" alt="Perl" title="Perl" />
       </a>
       <br>Perl
     </td>
