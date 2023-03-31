@@ -119,6 +119,10 @@
       <br>Java
     </td>
   </tr>
+    <tr>
+    <td align="center" Align Middle width="96">
+      <br>Markdown & Query languages
+    </td>
   <tr>
     <td align="center" Align Middle width="96">
       <br>SQL  &  NoSQL Databases
