@@ -123,6 +123,49 @@
     <td align="center" Align Middle width="96">
       <br>Markdown & Query languages
     </td>
+     <td align="center"  width="96">
+      <a href="https://www.postgresql.org/">
+        <img src="./icons/postgresql-original.svg" width="48" height="48" alt="Vim" title="Vim" />
+      </a>
+      <br>Vim
+    </td>
+     <td align="center"  width="96">
+      <a href="https://www.postgresql.org/">
+        <img src="./icons/postgresql-original.svg" width="48" height="48" alt="Vim" title="Vim" />
+      </a>
+      <br>Vim
+    </td>
+     <td align="center"  width="96">
+      <a href="https://www.postgresql.org/">
+        <img src="./icons/postgresql-original.svg" width="48" height="48" alt="Vim" title="Vim" />
+      </a>
+      <br>Vim
+    </td>
+     <td align="center"  width="96">
+      <a href="https://www.postgresql.org/">
+        <img src="./icons/postgresql-original.svg" width="48" height="48" alt="Vim" title="Vim" />
+      </a>
+      <br>Vim
+    </td>
+    <td align="center"  width="96">
+      <a href="https://www.postgresql.org/">
+        <img src="./icons/postgresql-original.svg" width="48" height="48" alt="Vim" title="Vim" />
+      </a>
+      <br>Vim
+    </td>
+     <td align="center"  width="96">
+      <a href="https://www.postgresql.org/">
+        <img src="./icons/postgresql-original.svg" width="48" height="48" alt="Vim" title="Vim" />
+      </a>
+      <br>Vim
+    </td>
+     <td align="center"  width="96">
+      <a href="https://www.postgresql.org/">
+        <img src="./icons/postgresql-original.svg" width="48" height="48" alt="Vim" title="Vim" />
+      </a>
+      <br>Vim
+    </td>
+      
   <tr>
     <td align="center" Align Middle width="96">
       <br>SQL  &  NoSQL Databases
