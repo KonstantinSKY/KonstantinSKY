@@ -145,25 +145,25 @@
       <a href="https://www.postgresql.org/">
         <img src="./icons/XML.png" width="48" height="48" alt="Vim" title="Vim" />
       </a>
-      <br>Vim
+      <br>XML
     </td>
-    <td align="center"  width="96">
+    <td align="center"  width="106">
       <a href="https://www.postgresql.org/">
         <img src="./icons/xpath.png" width="48" height="48" alt="Vim" title="Vim" />
       </a>
-      <br>Vim
+      <br>XPATH
     </td>
      <td align="center"  width="96">
       <a href="https://www.postgresql.org/">
-        <img src="./icons/clipart2432711.png width="48" height="48" alt="Vim" title="Vim" />
+        <img src="./icons/sql.png" width="48" height="48" alt="Vim" title="Vim" />
       </a>
-      <br>Vim
+      <br>SQL
     </td>
      <td align="center"  width="96">
       <a href="https://www.postgresql.org/">
         <img src="./icons/GraphQL_Logo.svg" width="48" height="48" alt="Vim" title="Vim" />
       </a>
-      <br>Vim
+      <br>GraphQL
     </td>
       
   <tr>
