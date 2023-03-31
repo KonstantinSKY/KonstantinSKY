@@ -174,7 +174,7 @@
       <a href="https://www.postgresql.org/">
         <img src="./icons/postgresql-original.svg" width="48" height="48" alt="Vim" title="Vim" />
       </a>
-      <br>Vim
+      <br>PostgreSQL
     </td>
      <td align="center"  width="96">
         <a href="https://www.mysql.com/">
