@@ -132,6 +132,7 @@
         <img src="./icons/postgresql-original.svg" width="48" height="48" alt="Vim" title="Vim" />
       </a>
       <br>Vim
+    </td>
      <td align="center"  width="96">
         <a href="https://www.mysql.com/">
           <img src="./icons/mysql-original.svg" width="48" height="48" alt="PyCharm" title="PyCharm" />
