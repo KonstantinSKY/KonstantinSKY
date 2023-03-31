@@ -127,19 +127,19 @@
       <a href="https://www.postgresql.org/">
         <img src="./icons/html5-original.svg" width="48" height="48" alt="Vim" title="Vim" />
       </a>
-      <br>Vim
+      <br>HTML
     </td>
      <td align="center"  width="96">
       <a href="https://www.postgresql.org/">
         <img src="./icons/css3-original.svg" width="48" height="48" alt="Vim" title="Vim" />
       </a>
-      <br>Vim
+      <br>CSS
     </td>
      <td align="center"  width="96">
       <a href="https://www.postgresql.org/">
         <img src="./icons/JSON.svg" width="48" height="48" alt="Vim" title="Vim" />
       </a>
-      <br>Vim
+      <br>JSON
     </td>
      <td align="center"  width="96">
       <a href="https://www.postgresql.org/">
