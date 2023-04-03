@@ -102,7 +102,7 @@
     </td>
     <td align="center"  width="96">
       <a href="https://www.gnu.org/software/bash/manual">
-        <img src="./icons/bash-original.svg" width="Bash" height="Bash" alt="Bash" title="Bash" />
+        <img src="./icons/Bash_Logo_Colored.svg" width="48" height="48" alt="Bash" title="Bash" />
       </a>
       <br>Bash
     </td>
