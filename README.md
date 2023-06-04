@@ -142,13 +142,13 @@
       <br>JSON
     </td>
      <td align="center"  width="96">
-      <a href="https://www.postgresql.org/">
+      <a href="https://www.xml.com/">
         <img src="./icons/XML.png" width="48" height="48" alt="Vim" title="Vim" />
       </a>
       <br>XML
     </td>
     <td align="center"  width="106">
-      <a href="https://www.postgresql.org/">
+      <a href="https://www.xml.com/">
         <img src="./icons/xpath.png" width="48" height="48" alt="Vim" title="Vim" />
       </a>
       <br>XPATH
@@ -160,7 +160,7 @@
       <br>SQL
     </td>
      <td align="center"  width="96">
-      <a href="https://www.postgresql.org/">
+      <a href="https://graphql.org/">
         <img src="./icons/GraphQL_Logo.svg" width="48" height="48" alt="Vim" title="Vim" />
       </a>
       <br>GraphQL
