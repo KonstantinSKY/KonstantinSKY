@@ -124,19 +124,19 @@
       <br>Markdown & Query languages
     </td>
      <td align="center"  width="96">
-      <a href="https://www.postgresql.org/">
+      <a href="https://html5.org/">
         <img src="./icons/html5-original.svg" width="48" height="48" alt="Vim" title="Vim" />
       </a>
       <br>HTML
     </td>
      <td align="center"  width="96">
-      <a href="https://www.postgresql.org/">
+      <a href="https://www.css3.info/">
         <img src="./icons/css3-original.svg" width="48" height="48" alt="Vim" title="Vim" />
       </a>
       <br>CSS
     </td>
      <td align="center"  width="96">
-      <a href="https://www.postgresql.org/">
+      <a href="https://www.json.org/">
         <img src="./icons/JSON.svg" width="48" height="48" alt="Vim" title="Vim" />
       </a>
       <br>JSON
@@ -178,9 +178,9 @@
     </td>
      <td align="center"  width="96">
         <a href="https://www.mysql.com/">
-          <img src="./icons/mysql-original.svg" width="48" height="48" alt="PyCharm" title="PyCharm" />
+          <img src="./icons/mysql-original.svg" width="48" height="48" alt="MySQL" title="MySQL" />
         </a>
-        <br>PyCharm
+        <br>MySQL
      </td>
       <td align="center"  width="96">
         <a href="https://www.mysql.com/">
