@@ -76,6 +76,12 @@
     <td align="center" valign="center" width="100"> 
       <br>Programming languages
     </td>
+      <td align="center" width="96">
+      <a href="https://www.rust-lang.org/" >
+        <img src="./icons/rust-logo-128x128.png" width="48" height="48" alt="Rust" title="Rust" />
+      </a>
+      <br>Rust
+    </td>
     <td align="center" width="96">
       <a href="https://www.python.org/" >
         <img src="./icons/python-original.svg" width="48" height="48" alt="Python" title="Python" />
@@ -105,12 +111,6 @@
         <img src="./icons/Bash_Logo_Colored.svg" width="48" height="48" alt="Bash" title="Bash" />
       </a>
       <br>Bash
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.rust-lang.org/" >
-        <img src="./icons/rust-logo-128x128.png" width="48" height="48" alt="Rust" title="Rust" />
-      </a>
-      <br>Rust
     </td>
     <td align="center" width="96">
       <a href="https://www.java.com/" >
