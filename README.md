@@ -27,7 +27,7 @@
 <table>
   <tr>
     <td align="center" valign="middle" width="96">
-       <br>Operating systems
+       Operating systems
     </td>
     <td align="center" valign="middle" width="96" height="100">
       <a href="https://www.linux.org/">
