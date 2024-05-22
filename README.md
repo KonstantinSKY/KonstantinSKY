@@ -114,7 +114,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://www.java.com/" >
-        <img src="./icons/java-original.svg" width="48" height="48" alt="Java" title="Java" />
+        <img src="./icons/solidity-icon.svg" width="48" height="48" alt="Java" title="Java" />
       </a>
       <br>Java
     </td>
