@@ -3,7 +3,7 @@
   <tr>
     <td align="center" Align Middle width="500">
       <H3>
-        Hi there :wave: I'm  <a href="https://www.linkedin.com/in/stan-sky/">Konstantin</a> from California :us:
+        Hi there :wave: I'm  <a href="https://www.linkedin.com/in/stan-sky/">Konstantin</a> from California
       </H3>
         <p>Software development engineer in test 
       <br> Senior Python Developer
@@ -74,7 +74,7 @@
   </tr>
   <tr>
     <td align="center" valign="center" width="96"> 
-      <br>Programming languages
+      <Programming languages
     </td>
       <td align="center" width="96">
       <a href="https://www.rust-lang.org/" >
@@ -121,7 +121,7 @@
   </tr>
     <tr>
     <td align="center" Align Middle width="96">
-      <br>Markdown & Query languages
+      Markdown & Query languages
     </td>
      <td align="center"  width="96">
       <a href="https://html5.org/">
@@ -168,7 +168,7 @@
       
   <tr>
     <td align="center" Align Middle width="96">
-      <br>SQL  &  NoSQL Databases
+      SQL  &  NoSQL Databases
     </td>
     <td align="center"  width="96">
       <a href="https://www.postgresql.org/">
@@ -215,7 +215,7 @@
   </tr>
   <tr>
     <td align="center" Align Middle width="96">
-      <br>IDE  &  Text Editors
+      IDE  &  Text Editors
     </td>
     <td align="center"  width="96">
        <a href="https://www.vim.org/">
