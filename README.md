@@ -74,7 +74,7 @@
   </tr>
   <tr>
     <td align="center" valign="center" width="96"> 
-      <Programming languages
+      Programming languages
     </td>
       <td align="center" width="96">
       <a href="https://www.rust-lang.org/" >
