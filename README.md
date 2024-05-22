@@ -113,10 +113,10 @@
       <br>NodeJS
     </td>
     <td align="center" width="96">
-      <a href="https://www.java.com/" >
+      <a href="https://soliditylang.org/" >
         <img src="./icons/solidity-icon.svg" width="48" height="48" alt="Java" title="Java" />
       </a>
-      <br>Java
+      <br>Solidity
     </td>
   </tr>
     <tr>
