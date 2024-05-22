@@ -112,7 +112,6 @@
       </a>
       <br>NodeJS
     </td>
-    
     <td align="center" width="96">
       <a href="https://www.java.com/" >
         <img src="./icons/java-original.svg" width="48" height="48" alt="Java" title="Java" />
