@@ -26,7 +26,7 @@
 
 <table>
   <tr>
-    <td align="center" style="vertical-align: middle; width: 96px;">
+    <td align="center" valign="middle" width="96">
        <br>Operating systems
     </td>
     <td align="center" width="96">
