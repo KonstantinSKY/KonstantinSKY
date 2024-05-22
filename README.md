@@ -3,7 +3,8 @@
   <tr>
     <td align="center" Align Middle width="500">
       <H3>
-        Hi there :wave: I'm  <a href="https://www.linkedin.com/in/stan-sky/">Konstantin</a> from California
+        Hi there!
+        I'm  <a href="https://www.linkedin.com/in/stan-sky/">Konstantin</a> from California
       </H3>
         <p>Software Engeneer & Develper
       <br> Rust / Python / JavaScript / Linux / Blockchain
