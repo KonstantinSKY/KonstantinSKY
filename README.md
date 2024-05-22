@@ -95,6 +95,12 @@
       <br>JavaScript
     </td>
     <td align="center"  width="96">
+      <a href="https://www.gnu.org/software/bash/manual">
+        <img src="./icons/Bash_Logo_Colored.svg" width="48" height="48" alt="Bash" title="Bash" />
+      </a>
+      <br>Bash
+    </td>
+    <td align="center"  width="96">
       <a href="https://www.perl.org/">
         <img src="./icons/perl-original.svg" width="48" height="48" alt="Perl" title="Perl" />
       </a>
@@ -106,12 +112,7 @@
       </a>
       <br>NodeJS
     </td>
-    <td align="center"  width="96">
-      <a href="https://www.gnu.org/software/bash/manual">
-        <img src="./icons/Bash_Logo_Colored.svg" width="48" height="48" alt="Bash" title="Bash" />
-      </a>
-      <br>Bash
-    </td>
+    
     <td align="center" width="96">
       <a href="https://www.java.com/" >
         <img src="./icons/java-original.svg" width="48" height="48" alt="Java" title="Java" />
