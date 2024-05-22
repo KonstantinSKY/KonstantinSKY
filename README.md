@@ -5,8 +5,8 @@
       <H3>
         Hi there :wave: I'm  <a href="https://www.linkedin.com/in/stan-sky/">Konstantin</a> from California
       </H3>
-        <p>Software development engineer in test 
-      <br> Senior Python Developer
+        <p>Software Engeneer & Develper
+      <br> Rust / Python / JavaScript / Linux / Blockchain
       </p>
     </td>
     <td align="center" width="500">
