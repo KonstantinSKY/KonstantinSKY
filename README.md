@@ -73,7 +73,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" valign="center" width="100"> 
+    <td align="center" valign="center" width="96"> 
       <br>Programming languages
     </td>
       <td align="center" width="96">
