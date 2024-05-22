@@ -7,7 +7,7 @@
         I'm  <a href="https://www.linkedin.com/in/stan-sky/">Konstantin</a> from California
       </H3>
         <p>Software Engeneer & Develper
-      <br> Rust / Python / JavaScript / Linux / Blockchain
+      <br> Rust / Python / JavaScript / Linux / Blockchain / WEB3
       </p>
     </td>
     <td align="center" width="500">
