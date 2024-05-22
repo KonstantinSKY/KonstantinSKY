@@ -103,7 +103,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://soliditylang.org/" >
-        <img src="./icons/solidity-logo.svg" width="48" height="48" alt="Java" title="Solidity" />
+        <img src="./icons/solidity-logo.svg" width="48" height="48" alt="Solidity" title="Solidity" />
       </a>
       <br>Solidity
     </td>
