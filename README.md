@@ -100,6 +100,12 @@
       </a>
       <br>Bash
     </td>
+    <td align="center" width="96">
+      <a href="https://soliditylang.org/" >
+        <img src="./icons/solidity-icon.svg" width="48" height="48" alt="Java" title="Solidity" />
+      </a>
+      <br>Solidity
+    </td>
     <td align="center"  width="96">
       <a href="https://www.perl.org/">
         <img src="./icons/perl-original.svg" width="48" height="48" alt="Perl" title="Perl" />
@@ -111,12 +117,6 @@
         <img src="./icons/nodejs-original.svg" width="48" height="48" alt="NodeJS" title="NodeJS" />
       </a>
       <br>NodeJS
-    </td>
-    <td align="center" width="96">
-      <a href="https://soliditylang.org/" >
-        <img src="./icons/solidity-icon.svg" width="48" height="48" alt="Java" title="Java" />
-      </a>
-      <br>Solidity
     </td>
   </tr>
     <tr>
@@ -161,7 +161,7 @@
     </td>
      <td align="center"  width="96">
       <a href="https://graphql.org/">
-        <img src="./icons/GraphQL_Logo.svg" width="48" height="48" alt="Vim" title="Vim" />
+        <img src="./icons/GraphQL_Logo.svg" width="48" height="48" alt="Vim" title="GraphQL" />
       </a>
       <br>GraphQL
     </td>
